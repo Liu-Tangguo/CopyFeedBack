@@ -1,0 +1,12 @@
+# 本地/运行时产物
+*.log
+*.user
+*.suo
+.vs/
+.idea/
+.secrets/
+tests/tmp/
+tests/bin/
+tests/results/
+verification/evidence/
+verification/tmp/
